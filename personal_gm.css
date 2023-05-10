@@ -22,7 +22,6 @@ font-family:Verdana;
 p {
   font-size:13px;
   font-family:Monaco;
-  padding-bottom:5px;
 }
 
 
@@ -51,13 +50,13 @@ a {
 
 
 
-.computing{
+.computing {
 background-color:white;
 position:absolute;
 float:right;
 margin-left:53%;
 width:35%;
-height:55%;
+height:80%;
 border:solid grey 1px;
 padding:10px;
 margin-top:240px;
@@ -73,7 +72,7 @@ margin-top:240px;
   margin-right:60%;
   padding: 20px;
   width:35%;
-  height:55%
+  height:80%;
   margin-left:4%;
   background-color:white;
 

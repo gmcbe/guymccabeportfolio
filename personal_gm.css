@@ -50,17 +50,16 @@ a {
 
 
 
-.computing {
+.computing{
 background-color:white;
 position:absolute;
 float:right;
 margin-left:53%;
 width:35%;
-height:80%;
+height:33%;
 border:solid grey 1px;
 padding:10px;
 margin-top:240px;
-
 
 
 }
@@ -72,8 +71,7 @@ margin-top:240px;
   margin-right:60%;
   padding: 20px;
   width:35%;
-  height:80%;
-  padding-left:4%;
+  margin-left:4%;
   background-color:white;
 
 }

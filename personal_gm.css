@@ -55,7 +55,6 @@ background-color:white;
 position:absolute;
 float:right;
 margin-left:53%;
-width:40%;
 height:55%;
 border:solid grey 1px;
 padding:10px;
@@ -69,9 +68,7 @@ margin-top:240px;
   position:absolute;
   margin-top:240px;
   margin-right:60%;
-  height:35%;
   padding: 20px;
-  width:50%;
   margin-left:4%;
   background-color:white;
 

@@ -1,5 +1,5 @@
 body{
-  background-color:#FAF9F6;
+  background-color:	#FAF9F6;
   font-family: sans-serif;
 }
 
@@ -55,10 +55,11 @@ background-color:white;
 position:absolute;
 float:right;
 margin-left:53%;
-height:55%;
+width:35%;
+height:42%;
 border:solid grey 1px;
 padding:10px;
-margin-top:240px;
+margin-top:180px;
 
 
 }
@@ -66,9 +67,11 @@ margin-top:240px;
 .music {
   border:solid grey 1px;
   position:absolute;
-  margin-top:240px;
+  margin-top:180px;
   margin-right:60%;
+  height:40%;
   padding: 20px;
+  width:40%;
   margin-left:4%;
   background-color:white;
 
